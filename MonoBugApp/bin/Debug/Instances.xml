@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Instances xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Setting>
+    <Name>Testing</Name>
+    <Type>bla</Type>
+  </Setting>
+  <Setting>
+    <Name>Unkkk</Name>
+    <Type>bla</Type>
+  </Setting>
+</Instances>
